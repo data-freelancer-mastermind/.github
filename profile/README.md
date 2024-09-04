@@ -10,15 +10,9 @@ Welcome to the [Data Freelancer](https://www.skool.com/data-freelancer/) GitHub 
 - Best Practices: Guidelines for code quality, project management, and client interaction
 - Deployment Strategies: Efficient ways to take your projects from development to production
 
-## Who This Is For
+## What is Data Freelancer?
 
-This resource center is designed for members of Data Freelancer, targted at: 
-- Data Engineers
-- Data Scientists
-- Data Analysts
-- Software Engineers
-- AI Engineers
-- Machine Learning Engineers
+Data Freelancer is a 12-month program exclusively for experienced data & AI professionals who want to start (or scale) a freelance business to make more money, work on fun projects, and create freedom.
 
 ## How to Use This Resource
 
