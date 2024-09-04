@@ -1,4 +1,4 @@
-# Data Freelancer: Data & AI Freelance Resources
+# Data Freelancer™ GitHub Organization
 
 Welcome to the Data Freelancer GitHub organization. This is our hub for sharing resources, templates, and best practices with our community of data and AI freelancers.
 
