@@ -12,7 +12,7 @@ Welcome to the [Data Freelancer](https://www.skool.com/data-freelancer/) GitHub 
 
 ## What is Data Freelancer?
 
-Data Freelancer is a 12-month program exclusively for experienced data & AI professionals who want to start (or scale) a freelance business to make more money, work on fun projects, and create freedom.
+Data Freelancer is a 12-month program exclusively for experienced data & AI professionals who want to start (or scale) a freelance business to make more money, work on fun projects, and create freedom. [Join](https://www.datalumina.com/data-freelancer) our global network of independent data experts and get the exact blueprint, mentorship, and accountability you need to start landing high-paying projects.
 
 ## How to Use This Resource
 
