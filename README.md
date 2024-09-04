@@ -31,10 +31,6 @@ This resource center is designed for members of Data Freelancer, targted at:
 - Link to the official [Skool community]([link-to-slack](https://www.skool.com/data-freelancer/)) for real-time discussions and support
 - Visit [our website](https://www.datalumina.com/data-freelancer) to learn more about Data Freelancer
 
-## License
-
-Unless otherwise specified, all content in this organization is licensed under [MIT License](link-to-license).
-
 ---
 
 © Datalumina. All rights reserved.
