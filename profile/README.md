@@ -1,6 +1,6 @@
 # Data Freelancer™ GitHub Organization
 
-Welcome to the Data Freelancer GitHub organization. This is our hub for sharing resources, templates, and best practices with our community of data and AI freelancers.
+Welcome to the [Data Freelancer](https://www.skool.com/data-freelancer/) GitHub organization. This is our hub for sharing resources, templates, and best practices with our community of data and AI freelancers.
 
 ## What You'll Find Here
 
@@ -28,7 +28,7 @@ This resource center is designed for members of Data Freelancer, targted at:
 
 ## Stay Connected
 
-- Link to the official [Skool community]([link-to-slack](https://www.skool.com/data-freelancer/)) for real-time discussions and support
+- Link to the official [Skool community](https://www.skool.com/data-freelancer/) for real-time discussions and support
 - Visit [our website](https://www.datalumina.com/data-freelancer) to learn more about Data Freelancer
 
 ---
